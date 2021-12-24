@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/sivascience/starter-hugo-academic
 
 go 1.15
 
